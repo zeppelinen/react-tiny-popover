@@ -1,3 +1,10 @@
+# Important notes
+
+This is a fork of 4.0.0 version of react-tiny-popover meant to fix crashes with current react version without upgrading to 5.0.0 of this package.
+
+
+*Pure legacy, do not use in new projects.*
+
 # react-tiny-popover
 A lightweight, highly customizable, and non-intrusive popover react HOC with no other dependencies! <b>Typescript friendly</b>, as well!
 
