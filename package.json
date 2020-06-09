@@ -3,7 +3,7 @@
   "version": "4.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexkatz/react-tiny-popover.git"
+    "url": "https://github.com/zeppeinen/react-tiny-popover.git"
   },
   "main": "dist/Popover.js",
   "types": "dist/index.d.ts",
